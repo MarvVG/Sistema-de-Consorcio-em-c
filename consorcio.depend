@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1659971178 source:c:\users\marcos\desktop\projeto\consorcio\cliente.c
+	"Interface.h"
+	"Cliente.h"
+
+1659970708 source:c:\users\marcos\desktop\projeto\consorcio\interface.c
+	"Interface.h"
+
+1659970708 source:c:\users\marcos\desktop\projeto\consorcio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Interface.h"
+	"Vendas.h"
+	"Grupo.h"
+	"Cliente.h"
+	"Pagamentos.h"
+
+1659970859 source:c:\users\marcos\desktop\projeto\consorcio\pagamentos.c
+	"Pagamentos.h"
+	<time.h>
+
+1659970708 c:\users\marcos\desktop\projeto\consorcio\interface.h
+	<conio.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1659970708 c:\users\marcos\desktop\projeto\consorcio\cliente.h
+
+1659970708 c:\users\marcos\desktop\projeto\consorcio\vendas.h
+
+1659970708 c:\users\marcos\desktop\projeto\consorcio\grupo.h
+	"Interface.h"
+
+1659970708 c:\users\marcos\desktop\projeto\consorcio\pagamentos.h
+	"Interface.h"
+	"Vendas.h"
+	"Grupo.h"
+	"Cliente.h"
+
+1659971679 source:c:\users\marcos\desktop\projeto\consorcio\grupo.c
+	"Grupo.h"
+
+1659972455 source:c:\users\marcos\desktop\projeto\consorcio\vendas.c
+	"interface.h"
+	"Vendas.h"
+	"Grupo.h"
+	"Cliente.h"
+
+1659971679 source:c:\users\marcos\desktop\projeto1\consorcio\grupo.c
+	"Grupo.h"
+
+1659970708 c:\users\marcos\desktop\projeto1\consorcio\grupo.h
+	"Interface.h"
+
+1659970708 c:\users\marcos\desktop\projeto1\consorcio\interface.h
+	<conio.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
+1659970708 source:c:\users\marcos\desktop\projeto1\consorcio\interface.c
+	"Interface.h"
+
+1659970708 source:c:\users\marcos\desktop\projeto1\consorcio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Interface.h"
+	"Vendas.h"
+	"Grupo.h"
+	"Cliente.h"
+	"Pagamentos.h"
+
+1659970708 c:\users\marcos\desktop\projeto1\consorcio\vendas.h
+
+1659970708 c:\users\marcos\desktop\projeto1\consorcio\cliente.h
+
+1659970708 c:\users\marcos\desktop\projeto1\consorcio\pagamentos.h
+	"Interface.h"
+	"Vendas.h"
+	"Grupo.h"
+	"Cliente.h"
+
+1659972658 source:c:\users\marcos\desktop\projeto1\consorcio\pagamentos.c
+	"Pagamentos.h"
+	<time.h>
+
+1659972455 source:c:\users\marcos\desktop\projeto1\consorcio\vendas.c
+	"interface.h"
+	"Vendas.h"
+	"Grupo.h"
+	"Cliente.h"
+
+1659973890 source:c:\users\marcos\desktop\projeto1\consorcio\cliente.c
+	"Interface.h"
+	"Cliente.h"
+
